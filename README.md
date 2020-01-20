@@ -6,5 +6,5 @@ Run on Linux using
 
 ```
 $ make
-$ ./dc3k DLC
+$ ./crawl
 ```
