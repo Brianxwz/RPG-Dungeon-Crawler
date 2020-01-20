@@ -1,0 +1,24 @@
+|=============================================================================|
+|                         Welcome to Dungeon Crawl.                           |
+|                                                                             |
+|         The goal of the game is to reach the end of the fifth floor.        |
+|       Advance through each floor by going through the staircase ('\').      |
+| The staircase is invisible until a compass is picked up from a random enemy.|
+|    You will also advance if you happen to walk on the invisible staircase.  |
+|                                                                             |
+|           Finding the Barrier Suit ('B') will also reduce damage            |
+|                      by 50% for the rest of the game.                       |
+|                                                                             |
+|                Please choose a character to start the adventure.            |
+|                                                                             |
+|                      Human: 140 HP, 20 Attack, 20 Defence.                  |
+|                                                                             |
+|          Dwarf: 100 HP, 20 Attack, 30 Defence. Gold is doubled in value.    |
+|                                                                             |
+|   Elf: 140 HP, 30 Attack, 10 Defence. Negative potions have positive effect.|
+|                                                                             |
+|          Orc: 180 HP, 30 Attack, 25 Defence. Gold is worth half value.      |
+|                                                                             |
+|                                Let's begin.                                 |
+|=============================================================================|
+
